@@ -4,3 +4,12 @@ input#login {
     border: none;
     border-bottom: 1px solid #acacac;
 }
+
+input#connect {
+    width: 100px;
+    height: 35px;
+    background-color: #acacac;
+    color: #000000;
+    border: none;
+    border-radius: 50%;
+}
