@@ -1,0 +1,6 @@
+input#login {
+    width: 250px;
+    height: 35px;
+    border: none;
+    border-bottom: 1px solid #acacac;
+}
